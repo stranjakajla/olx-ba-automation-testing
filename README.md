@@ -4,14 +4,6 @@ Seminar project for the course **Formal Methods** at the Faculty of Information 
 
 The project covers the full testing process for the search and filtering features of [OLX.ba](https://olx.ba), the largest online marketplace in Bosnia and Herzegovina. It includes test design with black-box and white-box techniques, manual test cases, defect reporting and automated UI tests with Selenium.
 
-## Team (Group 28)
-
-- Ajla Stranjak
-- Amina Fazlić
-- Asima Halilagić
-
-Mentor: mr. sc. Ahmet Mulalić
-
 ## Project structure
 
 | File / folder | Content |
